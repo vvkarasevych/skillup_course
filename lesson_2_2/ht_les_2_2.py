@@ -40,6 +40,5 @@ what_to_do_var_q2 = int(input("What do you want to do? (1 = Find bigger, 2 = Fin
 if what_to_do_var_q2 == 1:
     if a >= b
 elif what_to_do_var_q2 == 2:
-    print("A * B * C = ", a * b * c)
 else:
     print("You have chosen something what I can not do.")
